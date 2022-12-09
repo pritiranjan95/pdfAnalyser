@@ -1,0 +1,6 @@
+python-decouple
+uvicorn
+fastapi
+pytesseract
+PyPDF2
+python-multipart
